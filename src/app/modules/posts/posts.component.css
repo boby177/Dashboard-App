@@ -1,0 +1,10 @@
+table {
+  width: 100%;
+}
+th {
+  text-align: left;
+}
+
+.mat-form-field {
+  width: 100%;
+}
