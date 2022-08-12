@@ -9,7 +9,7 @@ const routes: Routes = [{
     component: DefaultComponent,
     children: [{
         path: '',
-        component: PostsComponent
+        component: DashboardComponent
     }, {
         path: 'posts',
         component: PostsComponent

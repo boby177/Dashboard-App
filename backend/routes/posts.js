@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.json([[{
+  res.json([{
     "id": 1,
     "author": "Hodge Reubens",
     "title": "Sune på bilsemester",
@@ -603,7 +603,7 @@ router.get('/', function(req, res, next) {
     "title": "Bad Luck (Zezowate szczescie)",
     "category": "Uncategorized",
     "date": "8/17/2020"
-  }]])
+  }])
 });
 
 module.exports = router;
