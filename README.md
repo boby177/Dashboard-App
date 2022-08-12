@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ![thumb](https://raw.githubusercontent.com/boby177/Dashboard-App/main/Screenshot_1.png)
+![thumb](https://raw.githubusercontent.com/boby177/Dashboard-App/main/src/assets/Screenshot_1.png)
 
 ## Development server
 
